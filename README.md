@@ -137,3 +137,13 @@ jupyter notebook notebooks/Analisis_Ruido_MOSFET.ipynb
 ```
 
 The notebook reads data from `../data/` (relative to the notebook) and saves all figures to `../figures/`.
+
+---
+
+## Author
+
+**A. S. Amari Rabah**
+
+Developed as part of the coursework for *Characterization, Simulation and Modeling of Electronic Nanodevices* —
+Master's Degree in Physics: Radiation, Nanotechnology, Particles and Astrophysics,
+University of Granada, Spain.
