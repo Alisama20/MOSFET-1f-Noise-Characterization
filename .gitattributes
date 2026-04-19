@@ -1,5 +1,6 @@
 * text=auto
-*.py linguist-language=Python
-*.ipynb linguist-language=Jupyter Notebook
+*.py linguist-detectable=true
+*.ipynb linguist-detectable=true
 *.pdf binary
 *.png binary
+README.md linguist-documentation
