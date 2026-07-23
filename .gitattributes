@@ -1,6 +1,6 @@
 * text=auto
 *.py linguist-detectable=true
-*.ipynb linguist-detectable=true
+*.ipynb linguist-vendored=true
 *.pdf binary
 *.png binary
 README.md linguist-documentation
